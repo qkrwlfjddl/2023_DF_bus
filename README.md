@@ -2,6 +2,6 @@
 
 ## 2018년 기상청 빅데이터 콘테스트 수상작 필사
 
-![image](main1.png)
+![image](image/main1.png)
 
-![image](main.png)
+![image](image/main.png)
